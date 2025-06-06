@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.pinimg.com/736x/57/33/f7/5733f70b7872ea1b49c592809b4e0cc6.jpg" width="30%" align="right" />
+<img src="https://i.pinimg.com/736x/57/33/f7/5733f70b7872ea1b49c592809b4e0cc6.jpg" width="25%" align="right" />
 <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&pause=1000&color=F71D56&width=435&lines=%CB%9A.%F0%9F%8E%80%E0%BC%98%E2%8B%86+Hello%2C+I'm+kikyuoo+and+I'm+programm+wizard!!%CB%9A.%F0%9F%8E%80%E0%BC%98%E2%8B%86" width="70%" />
 <br><br>
 <pre>
